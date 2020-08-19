@@ -1,3 +1,4 @@
+/.idea/
 django_tools.egg-info/*
 dist/*
 *.pyc
